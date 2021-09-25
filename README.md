@@ -6,7 +6,7 @@ Machine Learning Algorithms from sratch using python.
 
 **Linear Regression** -> **x06simple.csv**
 
-**Logistic Regression*** -> **spambase.data**
+**Logistic Regression** -> **spambase.data**
 
 **Multi-Class Logistic Regression** -> **iris.data**
 
