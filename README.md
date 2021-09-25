@@ -9,4 +9,5 @@
   3. **Multi-Class Logistic Regression** -> **iris.data**
   4. **Naive Bayes Classifier** -> **spambase.data**
   5. **Dimensionality Reduction for Visualation** -> **http://vis-www.cs.umass.edu/lfw/**
-  6. **da s**
+  6. **Dimensionality Reduction for KNNs** -> **http://vis-www.cs.umass.edu/lfw/**
+  7. **Eigenfaces as Compression** -> **http://vis-www.cs.umass.edu/lfw/**
