@@ -8,5 +8,5 @@
   2. **Logistic Regression** -> **spambase.data**
   3. **Multi-Class Logistic Regression** -> **iris.data**
   4. **Naive Bayes Classifier** -> **spambase.data**
-  5. **dasd**
+  5. **Dimensionality Reduction for Visualation** -> **http://vis-www.cs.umass.edu/lfw/**
   6. **da s**
